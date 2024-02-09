@@ -7,4 +7,4 @@ Il contient :
 - le fichier apk pour un usage direct sur tablette,
 - le fichier aia des sources,
 - la notice word,
-- l'image et la page web d'interpretation des réponses.
+- le zip sert à l'interpretation des réponses.
